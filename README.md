@@ -13,10 +13,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/juan-acuna18/juan-acuna18/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">My coding arsenal</h1>
 
 ###
